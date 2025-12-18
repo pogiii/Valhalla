@@ -170,6 +170,8 @@ All server types support both TOML configuration files and environment variables
 
 NPCs are scripted in JavaScript powered by [goja](https://github.com/dop251/goja). For detailed NPC chat formatting codes and scripting information, see the scripts directory and existing NPC implementations.
 
+For the **Goja bridge API** (the methods available as `npc.*` and `plr.*` in scripts), see **[docs/Scripting.md](docs/Scripting.md)**.
+
 For NPC chat display formatting reference, see the [NPC Chat Formatting](#npc-chat-formatting) section below.
 
 ### Production Deployments

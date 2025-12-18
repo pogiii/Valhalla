@@ -39,6 +39,7 @@ Choose the deployment method that fits your needs:
   - TOML configuration files
   - Environment variables
   - Performance tuning
+- **[Scripting Guide](Scripting.md)** - JavaScript scripting reference (Goja bridge API)
 
 - **[Building from Source](Building.md)** - For developers
   - Build instructions
@@ -88,6 +89,7 @@ docs/
 ├── Docker.md          # Docker Compose deployment
 ├── Kubernetes.md      # Kubernetes deployment
 ├── Configuration.md   # Configuration reference
+├── Scripting.md       # JavaScript scripting (Goja bridge API)
 └── Building.md        # Building from source
 ```
 
